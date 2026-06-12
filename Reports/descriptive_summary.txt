@@ -1,0 +1,69 @@
+IPL Descriptive Analytics Summary
+=================================
+
+Top 10 Run Scorers:
+batter
+V Kohli           7995
+S Dhawan          6736
+RG Sharma         6588
+DA Warner         6537
+SK Raina          5513
+MS Dhoni          5213
+AB de Villiers    5148
+CH Gayle          4956
+RV Uthappa        4942
+KD Karthik        4824
+
+Top 10 Strike Rates (min 100 balls):
+              batter  strike_rate  runs  balls
+234  J Fraser-McGurk   238.235294   324    136
+433          PD Salt   181.111111   652    360
+39        AD Russell   177.083333  2465   1392
+652         WG Jacks   176.377953   224    127
+617          TM Head   175.917431   767    436
+606         T Stubbs   175.000000   399    228
+85   Ashutosh Sharma   174.285714   183    105
+105      BCJ Cutting   173.722628   238    137
+561        SP Narine   172.717024  1532    887
+612         TH David   172.031662   652    379
+
+Top 10 Wicket Takers:
+bowler
+YS Chahal     213
+DJ Bravo      207
+PP Chawla     201
+SP Narine     200
+R Ashwin      198
+B Kumar       195
+SL Malinga    188
+A Mishra      183
+JJ Bumrah     182
+RA Jadeja     169
+
+Best Economy Rates (min 20 overs):
+              bowler   economy  runs  deliveries
+473    Sohail Tanvir  6.226415   275         265
+2         A Chandila  6.282051   245         234
+141       FH Edwards  6.400000   160         150
+443  SMSM Senanayake  6.492308   211         195
+442       SM Pollock  6.578571   307         280
+7           A Kumble  6.646999  1089         983
+147       GD McGrath  6.674772   366         329
+263   M Muralitharan  6.698292  1765        1581
+173         IS Sodhi  6.725275   204         182
+181          J Yadav  6.738693   447         398
+
+Teams with Most Wins:
+winner
+Mumbai Indians                 144
+Chennai Super Kings            138
+Kolkata Knight Riders          131
+Royal Challengers Bangalore    116
+Rajasthan Royals               112
+Sunrisers Hyderabad             88
+Kings XI Punjab                 88
+Delhi Daredevils                67
+Delhi Capitals                  48
+Deccan Chargers                 29
+
+Toss winner wins match: 50.6%

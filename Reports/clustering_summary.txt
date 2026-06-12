@@ -1,0 +1,66 @@
+IPL Player Clustering Summary
+==============================
+
+Total all-rounders considered: 63
+Optimal K (silhouette): 4
+
+Cluster Centers:
+          runs  strike_rate  sixes_percent     wickets   economy  dot_ball_percent  cluster
+0  1385.555556   154.999404       9.668207  117.666667  7.678651         35.837223        0
+1   921.125000   119.032275       3.831952   96.916667  7.583359         33.689128        1
+2  4169.142857   144.735847       7.879264   38.857143  7.750903         29.330895        2
+3   850.478261   134.627190       6.404293   43.521739  8.658656         29.837484        3
+
+Role Distribution (manual assignment):
+role
+All-Rounder           30
+Bowler                16
+Finisher/Mid-Order     7
+Anchor                 5
+Power Hitter           3
+Specialist             2
+
+Sample players per role:
+
+Bowler:
+           player  runs  strike_rate  wickets   economy
+0        A Mishra   380    93.137255      183  7.304878
+5   Azhar Mahmood   388   131.972789       31  7.684783
+6         B Kumar   306    96.835443      195  7.464532
+16   DT Christian   452   116.494845       40  7.926247
+19       HV Patel   249   124.500000      151  8.445709
+
+Finisher/Mid-Order:
+       player  runs  strike_rate  wickets   economy
+1   A Symonds   973   132.561308       23  7.711111
+13   DJ Hooda  1455   130.610413       10  8.359375
+15   DR Smith  2379   139.449004       27  8.886894
+28   JR Hopes   417   137.171053       14  9.138211
+48  RG Sharma  6588   132.156469       16  7.942693
+
+Anchor:
+           player  runs  strike_rate  wickets    economy
+2      AD Mathews   722   127.561837       28   8.141264
+11    CJ Anderson   538   129.326923       14  10.000000
+14      DJ Hussey  1316   125.333333       10   9.009288
+26      JP Duminy  2026   127.021944       23   7.249643
+58  Shahbaz Ahmed   535   125.292740       21   9.289617
+
+All-Rounder:
+        player  runs  strike_rate  wickets   economy
+3   AD Russell  2465   177.083333      125  9.116883
+4     AR Patel  1643   132.500000      131  7.279188
+7    BA Stokes   934   136.151603       31  8.489627
+10   CH Morris   612   155.725191      107  7.918934
+12    DJ Bravo  1546   132.249786      207  8.075243
+
+Power Hitter:
+           player  runs  strike_rate  wickets   economy
+8         C Green   699   154.646018       20  8.766234
+9        CH Gayle  4956   152.211302       19  7.756849
+56  ST Jayasuriya   760   147.859922       16  7.893688
+
+Specialist:
+       player  runs  strike_rate  wickets   economy
+22    J Botha   408   116.239316       27  6.922426
+33  LR Shukla   405   120.535714       17  8.429448

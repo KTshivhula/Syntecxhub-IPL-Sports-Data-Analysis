@@ -1,0 +1,33 @@
+IPL Match Winner Prediction – Model Performance
+===============================================
+
+Logistic Regression:
+  Accuracy: 0.2294
+  Precision: 0.1741
+  Recall: 0.2294
+  F1 Score: 0.1922
+
+Random Forest:
+  Accuracy: 0.4633
+  Precision: 0.4556
+  Recall: 0.4633
+  F1 Score: 0.4512
+
+XGBoost:
+  Accuracy: 0.4862
+  Precision: 0.4767
+  Recall: 0.4862
+  F1 Score: 0.4751
+
+
+Feature Importance (Random Forest):
+                 feature  importance
+1          team2_encoded    0.205829
+0          team1_encoded    0.200479
+5            season_year    0.195064
+2          venue_encoded    0.187985
+3    toss_winner_encoded    0.169543
+4  toss_decision_encoded    0.041100
+
+Best Model: XGBoost
+Best Model F1 Score: 0.4751

@@ -1,0 +1,72 @@
+IPL Diagnostic Analytics Summary
+================================
+
+Home Win Percentage: 0.0%
+
+Top Venues Where Toss Winner Wins Match:
+venue
+Green Park                                                            1.000000
+Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam    1.000000
+OUTsurance Oval                                                       1.000000
+Holkar Cricket Stadium                                                0.777778
+Barabati Stadium                                                      0.714286
+Punjab Cricket Association IS Bindra Stadium                          0.700000
+De Beers Diamond Oval                                                 0.666667
+SuperSport Park                                                       0.666667
+Buffalo Park                                                          0.666667
+Maharashtra Cricket Association Stadium                               0.636364
+
+Most Batting-Friendly Venues (runs per wicket):
+                                                   venue  avg_runs_per_wicket  total_matches
+37          Punjab Cricket Association IS Bindra Stadium            33.423077             10
+43  Rajiv Gandhi International Stadium, Uppal, Hyderabad            32.937500             13
+47                        Sawai Mansingh Stadium, Jaipur            32.580952             10
+1                            Arun Jaitley Stadium, Delhi            31.559585             16
+15                                 Eden Gardens, Kolkata            31.528497             16
+38  Punjab Cricket Association IS Bindra Stadium, Mohali            30.826087             11
+45                Saurashtra Cricket Association Stadium            30.577982             10
+24                      M Chinnaswamy Stadium, Bengaluru            29.731844             14
+56                              Wankhede Stadium, Mumbai            29.520833             45
+5                                      Brabourne Stadium            29.008333             10
+
+Most Bowling-Friendly Venues (runs per wicket):
+                                                                    venue  avg_runs_per_wicket  total_matches
+22                                                              Kingsmead            21.656716             15
+9                                              Dr DY Patil Sports Academy            22.268519             17
+11                    Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium            22.981595             13
+31                          Maharashtra Cricket Association Stadium, Pune            23.474286             13
+41                                     Rajiv Gandhi International Stadium            24.373684             15
+4   Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow            24.397727             14
+52                                             Subrata Roy Sahara Stadium            24.743169             16
+28                               MA Chidambaram Stadium, Chepauk, Chennai            24.834734             28
+10                                     Dr DY Patil Sports Academy, Mumbai            25.877953             20
+44                                           Sardar Patel Stadium, Motera            25.979310             12
+
+Most Consistent Batters (CV):
+                        std        mean        cv
+batter                                           
+R Dravid          76.120300  434.600000  0.175150
+JM Bairstow       81.023453  317.400000  0.255272
+KH Pandya         48.057547  182.555556  0.263249
+SV Samson        101.562639  367.666667  0.276236
+RG Sharma        117.086578  411.750000  0.284363
+S Dhawan         129.514993  421.000000  0.307637
+PA Patel          84.163045  258.272727  0.325869
+Gurkeerat Singh   28.909629   85.166667  0.339448
+RA Jadeja         62.943228  183.875000  0.342315
+PP Ojha            1.095445    3.200000  0.342327
+
+Most Consistent Bowlers (CV):
+                     std       mean        cv
+bowler                                       
+WD Parnell      1.414214   8.000000  0.176777
+Ravi Bishnoi    2.509980  13.600000  0.184557
+SK Trivedi      2.701851  14.600000  0.185058
+SM Curran       2.509980  12.400000  0.202418
+Rashid Khan     5.040904  19.625000  0.256861
+MJ Santner      0.836660   3.200000  0.261456
+B Lee           1.581139   6.000000  0.263523
+YS Chahal       5.239709  19.363636  0.270595
+R Ashwin        3.899845  14.142857  0.275747
+Mohammed Siraj  3.854496  12.000000  0.321208
+
